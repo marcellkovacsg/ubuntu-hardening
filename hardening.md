@@ -41,7 +41,7 @@
 
 * ## Network related changes
 
-    * Configuring ip-tables and ufw
+    * Configuring ip-tables and/or ufw
 
     * Disabling ipv6
 
