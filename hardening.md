@@ -1,8 +1,6 @@
-# Ubuntu Hardening
+# Detailed list of changes
 
-## Detailed list of changes
-
-* ### User related changes
+* ## User related changes
 
     * Adding DevOps group
 
@@ -14,7 +12,7 @@
 
     * Disabling switching to root
 
-* ### Filesystem and package related changes
+* ## Filesystem and package related changes
 
     * Installing common packages
 
@@ -41,7 +39,7 @@
         * [uvcvideo](https://help.ubuntu.com/community/UVC)
         * v4l2_common ( video4linux )
 
-* ### Network related changes
+* ## Network related changes
 
     * Configuring ip-tables and ufw
 
