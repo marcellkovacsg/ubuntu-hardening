@@ -16,8 +16,6 @@
 
     * Installing common packages
 
-        * htop
-        * mc
         * iptables-persistent ( maybe ufw is already persistent)
         * sudosh
 
